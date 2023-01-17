@@ -1,0 +1,50 @@
+{
+  "name": "musicform",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/lato": "^4.5.10",
+    "@rollup/pluginutils": "^4.2.1",
+    "@unocss/reset": "^0.46.5",
+    "@vueuse/core": "^9.5.0",
+    "@vueuse/head": "^1.0.13",
+    "@vueuse/integrations": "^9.5.0",
+    "circular-json-es6": "^2.0.2",
+    "fp-ts": "^2.12.1",
+    "inferred-types": "^0.22.0",
+    "rollup": ">=2.77.0 <3.0.0",
+    "tone": "^14.7.77",
+    "tonejs-instrument-contrabass-wav": "^1.1.0",
+    "tonejs-instrument-flute-wav": "^1.1.0",
+    "tonejs-instrument-piano-wav": "^1.1.0",
+    "tonejs-instrument-saxophone-wav": "^1.1.0",
+    "tonejs-instrument-trumpet-wav": "^1.1.0",
+    "tonejs-instrument-violin-wav": "^1.1.0",
+    "tonejs-instrument-xylophone-wav": "^1.1.1",
+    "vee-validate": "^4.7.3",
+    "vexflow": "^4.0.3",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@iconify-json/la": "^1.1.2",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "markdown-it-link-attributes": "^4.0.1",
+    "markdown-it-prism": "^2.3.0",
+    "unocss": "^0.46.5",
+    "unplugin-auto-import": "^0.11.4",
+    "unplugin-icons": "^0.14.13",
+    "unplugin-vue-components": "^0.22.9",
+    "vite": "^3.2.4",
+    "vite-auto-import-resolvers": "^3.0.3",
+    "vite-plugin-inspect": "^0.7.8",
+    "vite-plugin-md": "^0.20.4",
+    "vite-plugin-pages": "^0.27.1",
+    "vite-plugin-vue-layouts": "^0.7.0"
+  }
+}
