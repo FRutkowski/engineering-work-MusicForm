@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# MusicForm 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+MusicForm is an app to composing music using sheet music interface.
+The main purpose of this software is to provide all necessary tools that make creating
+music easy and simple. 
 
-## Recommended IDE Setup
+## Installation
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+After clone/download this repository:
+`pnpm install`
+
+To run project: `pnpm run dev`
+
+
+![image](https://user-images.githubusercontent.com/65611113/212884213-3d3c02f9-6a1f-4b87-8bd5-dfca9830a045.png)
+
