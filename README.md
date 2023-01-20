@@ -1,6 +1,6 @@
 # MusicForm 
 
-MusicForm is an app to composing music using sheet music interface.
+MusicForm is an app to composing music using the sheet music interface.
 The main purpose of this software is to provide all necessary tools that make creating
 music easy and simple. 
 
